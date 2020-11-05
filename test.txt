@@ -4,4 +4,15 @@ GitTest
 
 hennkou
 
+<<<<<<< HEAD
 こんにちは、中根です。
+=======
+<<<<<<< HEAD
+櫻井です変更します
+おいおいおいおいおああああ
+=======
+
+矢城秀渡だよ～～～～
+テストだよ～～～
+>>>>>>> branch 'master' of https://github.com/rt19304023/test
+>>>>>>> branch 'master' of https://github.com/rt19304023/test.git
